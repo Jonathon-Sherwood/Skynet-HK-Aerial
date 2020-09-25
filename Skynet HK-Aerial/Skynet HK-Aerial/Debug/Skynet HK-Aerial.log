@@ -1,0 +1,3 @@
+﻿  Skynet_HK-Aerial.cpp
+C:\Users\Faylen\Desktop\Skynet HK-Aerial\Skynet HK-Aerial\Skynet HK-Aerial\Skynet_HK-Aerial.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Skynet HK-Aerial.vcxproj -> C:\Users\Faylen\Desktop\Skynet HK-Aerial\Skynet HK-Aerial\Debug\Skynet HK-Aerial.exe
